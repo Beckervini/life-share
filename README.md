@@ -4,8 +4,6 @@ Aplicação web desenvolvida em ASP.NET Core MVC, focada no compartilhamento de 
 Sobre o projeto
 O Life Share permite cadastro e gerenciamento de empresas, login de usuários, e controle de status de empresas. Utiliza Entity Framework para persistência de dados e segue o padrão MVC, com autenticação e proteção de rotas.
 
-Projeto criado como exercício prático para portfólio acadêmico.
-
 Funcionalidades
 Cadastro, edição e exclusão de empresas
 
